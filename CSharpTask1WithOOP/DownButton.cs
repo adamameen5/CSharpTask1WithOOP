@@ -31,14 +31,6 @@ namespace CSharpTask1WithOOP
             }
 
             IButton.isPrinting = false;
-
-        }
-
-        public static bool isPrinting;
-
-        public DownButton()
-        {
-            isPrinting = true;
         }
     }
 }
